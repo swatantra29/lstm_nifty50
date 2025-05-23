@@ -107,4 +107,4 @@ Scaler (scaler_minute_csv_25y.pkl): This is a joblib-saved MinMaxScaler (or simi
 ## Disclaimer
 Financial market predictions are inherently complex and uncertain. This script and the underlying model are for educational and illustrative purposes only. They should not be used as the sole basis for making any investment decisions. Past performance is not indicative of future results. Use at your own risk.
 ## License
-This project is licensed under the MIT License.
+This project is licensed under the [MIT License](LICENSE).
